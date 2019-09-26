@@ -38,7 +38,7 @@ function preserveDecimal(n){
 }
 
 function preserveDecimal(n){
-  var number parseFloat('nonsense!')
+  var number parseFloat('nonsense!');
   return number;
 }
 
