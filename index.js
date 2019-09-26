@@ -33,7 +33,7 @@ function makeInt(n){
 }
 
 function makeInt(n){
-  var num= parseInt('nonsense!',10);
+  var num= parseInt('sldkjflksjf',10);
   return num;
 }
 
