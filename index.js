@@ -28,10 +28,13 @@ function makeInt(n){
 }
 
 function makeInt(n){
-  return parseInt('nonsense!',10);
+  var num= parseInt('nonsense!',10);
+  return num;
 }
 
 function preserveDecimal(n){
-  return parseFloat(n);
+  var number parseFloat(n);
+  return number;
+  
 }
 
